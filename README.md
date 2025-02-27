@@ -2,7 +2,7 @@
 
 **Aim** 
 
-To create an interactive Finance Dashboard for further financial Ananlysis with the preprocessed data.
+To create an interactive Finance Dashboard for further financial Analysis with the preprocessed data.
 
 ----------------------------------------------------------------------------------
 **Steps:**
