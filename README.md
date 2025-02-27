@@ -15,12 +15,24 @@ To create an interactive Finance Dashboard for further financial Analysis with t
 
 ----------------------------------------------------------------------
 
-Creating **Mockup of the Dashboard** we needed help us in 
+**Mockup of the Dashboard** 
 
-•	Visual communication of what we need
+In the finance view, we proovide a detailed P & L statement along with essential visualizations and charts.
 
-•	Early feedback
+These visuals highlight key metrics like revenue, expenses, profit trends.
 
-•	Enchanced user experience
+Instaed of using columns, we are creating and using measures
+
+Creating measures allows dynamic calculations, optimize performance and reduced file size.
+
+Creating Mockup of the Dashboard helps us in
+
+          •	Visual communication of what we need
+          
+          •	Early feedback
+          
+          •	Enchanced user experience
 
 **Note** mockup.ai is one of the tool
+
+
