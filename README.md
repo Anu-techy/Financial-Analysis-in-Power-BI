@@ -24,9 +24,3 @@ Creating **Mockup of the Dashboard** we needed help us in
 •	Enchanced user experience
 
 **Note** mockup.ai is one of the tool
-
-
-
-Steps:
-
-1.
