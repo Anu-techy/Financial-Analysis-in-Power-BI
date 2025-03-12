@@ -13,7 +13,8 @@ To create an interactive Finance Dashboard for further financial Analysis with t
 5. Creating a Line chart to show Performance Over Time
 6. Build Top Product, Market & Region Visuals
 7. Add Net Profit 
-
+8. Adhoc Request to add Target Data for the metrics and compare
+9. Create Toggle button to switch between Last Year va Target Data as Benchmarks
 
 
 
